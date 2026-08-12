@@ -1,0 +1,6 @@
+build/
+*.o
+*.obj
+main
+!scripts/
+.DS_Store
